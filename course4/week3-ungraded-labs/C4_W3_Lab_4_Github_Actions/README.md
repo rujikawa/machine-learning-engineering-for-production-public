@@ -20,6 +20,10 @@ In this lab you will set up an action that will run the unit tests defined for y
 
 To give you an idea of the flexibility of this tool, you could also (although not covered in this lab) set the action to build a Docker image out of your code if all the unit tests were passed and sent that image to a Google Cloud Bucket where it can be used to deploy your code. This would mean that you successfully automated your deployment with every push of changes.
 
+- one
+- two
+- three
+- foue
 
 ## Fork the public repo
 
